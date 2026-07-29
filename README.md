@@ -10,7 +10,7 @@ This repository is a complete placement training portfolio for Al Baasith Hussai
 
 ## Student Information
 - Student Name: Al Baasith Hussain S
-- College: Dhaanish Chennai College of Engineering
+- College: Dhaanish Chennai College Of Engineering
 - Department: B.Tech AI&DS
 - Training Start Date: 06/07/2026
 - Training Status: Ongoing
