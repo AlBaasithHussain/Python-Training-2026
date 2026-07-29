@@ -1,0 +1,7 @@
+# Interview Questions for Exception Handling
+
+1. What is the main purpose of try, except, and error handling in Python?
+2. How does it differ from related concepts?
+3. Can you explain a real-world example?
+4. What are common mistakes while using it?
+5. How would you optimize a solution using this concept?
